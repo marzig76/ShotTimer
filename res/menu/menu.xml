@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/show_all"
+        android:title="Toggle Display" />  
+    <item android:id="@+id/calibrate"
+        android:title="Calibrate" />
+    <item android:id="@+id/increase_threshold"
+        android:title="Threshold +1 Decibel" />
+    <item android:id="@+id/decrease_threshold"
+        android:title="Threshold -1 Decibel" />
+    <item android:id="@+id/toggle_delay"
+        android:title="Toggle Delayed Start" />
+    <item android:id="@+id/default_threshold"
+        android:title="Default Decibel Level" />
+    <item android:id="@+id/save_threshold"
+        android:title="Save Threshold to file" />
+    <item android:id="@+id/load_threshold"
+        android:title="Load Threshold from file" /> 
+</menu>
