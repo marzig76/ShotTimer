@@ -483,12 +483,4 @@ public class ShotTimer extends Activity {
     }
 }
 
-//notes:
 
-//chrono code:
-//http://stackoverflow.com/questions/526524/android-get-time-of-chronometer-widget
-
-// AudioRecord for on the fly recording
-
-//db formula
-//float Db = 20 * log10(ABS(sampleVal) / 32768)
